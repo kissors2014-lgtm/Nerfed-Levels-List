@@ -1,0 +1,18 @@
+{
+    "id": 574365201,
+    "name": "Limbnerf",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Kizo",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 87,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LTCBAZSI34",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 95,
+            "hz": 120
+        }
+    ]
+}
